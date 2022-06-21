@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243844449621",
+    "project_id": "denri-ee71d",
+    "storage_bucket": "denri-ee71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243844449621:android:61687dc784e816b3bb5bdc",
+        "android_client_info": {
+          "package_name": "com.sandeappbrewery.denriadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243844449621-7ftloh3t26vu9u5kndvbf39sur67eu76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwScX0D5FL7PS36qTcthS24puR5kTvuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243844449621-7ftloh3t26vu9u5kndvbf39sur67eu76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

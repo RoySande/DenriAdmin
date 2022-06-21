@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Denri Admin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="create_new_product">Create new Product</string>
+</resources>
